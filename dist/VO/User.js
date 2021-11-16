@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.user = void 0;
-class user {
+exports.User = void 0;
+class User {
     /*
     constructor(username:string, age:number ){
         this._userName = username;
@@ -29,4 +29,4 @@ class user {
         this._age = age;
     }
 }
-exports.user = user;
+exports.User = User;
